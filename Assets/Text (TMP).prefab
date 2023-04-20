@@ -69,13 +69,14 @@ MonoBehaviour:
     but thats it, maybe add an enemy or two.
 
     Enhancement 2: Balls are too fast,
-    try slowing them down slightly.
+    try slowing them down slightly so therefore it seems a bit hard, so this is to
+    suggest making it easier.
 
-    Enhancement 3: There''s only four goals,
-    maybe add more to keep the player engaged.
+    Enhancement 3: The fact that there is chaos into
+    it definetly adds into the wow factor.
 
     Enhancement 4: Lack of obstacles,
-    maybe add in a couple to increase the challenge.'
+    maybe add in a couple to increase the challenge, the yellow ball completes itself.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

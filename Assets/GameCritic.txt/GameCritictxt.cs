@@ -8,7 +8,7 @@ public class GameCritictxt : MonoBehaviour
 
     void start()
     {
-       m_MyText.text = "Enhancement 1: needs more of a challenge as there's just four chaos balls but thats it. Enchancement 2: Balls are too fast, consider slowing them down slightly. Enhancement 3: Only four goals, maybe add more to keep the player engaged. Enhancement 4: There aren't any obstacles to navigate, consider adding some to add into the challenge.";
+       m_MyText.text = "Enhancement 1: needs more of a challenge as there's just four chaos balls but thats it. Enchancement 2: Balls are too fast, consider slowing them down slightlyso therefore it seems a bit hard, so this is to suggest making it easier.. Enhancement 3: The fact that there is chaos into it definetly adds into the wow factor.Enhancement 4: Lack of obstacles, maybe add in a couple to increase the challenge, the yellow ball completes itself.";
         
         
     }
