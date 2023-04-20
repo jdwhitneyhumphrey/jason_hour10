@@ -1,20 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameCritictxt : MonoBehaviour
 {
 
-    private bool isGameOver = true;
+    public Text m_MyText;
 
-    void Update()
+    void start()
     {
-     
-        if (isGameOver){
-            
-            print("Enhancement 1: Although it does provide a challenge, it seems a bit lacking as all you got are just at least four chaos balls to interfere but nothing else, perhaps add an enemy or two. Enchancement 2: Seems a bit short as there's just four goals, maybe add more to keep the player engaged longer. Enhancement 3: There's not really any hazards of any kind or obstacles to navigate, consider adding those to add a challenge. Enhancement 4: The Chaos balls and colored balls are difficult to get to due to their speed, consider slowing them down a bit whenever possible.");
-
-        }
+       m_MyText.text = "Enhancement 1: needs more of a challenge as there's just four chaos balls but thats it. Enchancement 2: Balls are too fast, consider slowing them down slightly. Enhancement 3: Only four goals, maybe add more to keep the player engaged. Enhancement 4: There aren't any obstacles to navigate, consider adding some to add into the challenge.";
+        
         
     }
 }
